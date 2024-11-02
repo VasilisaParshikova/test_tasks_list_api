@@ -1,0 +1,9 @@
+/.idea/
+/.env
+/.env.compose
+/db
+/venv
+/.venv/
+/.vscode/
+__pycache__/
+/test.db
